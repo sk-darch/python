@@ -11,7 +11,7 @@ minlist = [list1[0], list1[1], list2[0], list2[1], list3[0], list3[1]]
 mxavg = sum(maxlist) / len(maxlist)
 miavg = sum(minlist) / len(minlist)
 
-print("The maxlist elements are : ", maxlist) 
-print("The average of maxlist is : ", mxavg)
-print("The minlists elements are : ", minlist)
-print("The average of minlist is : ", miavg)
+print "The maxlist elements are : ", maxlist 
+print "The average of maxlist is : ", mxavg
+print "The minlists elements are : ", minlist
+print "The average of minlist is : ", miavg
